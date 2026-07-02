@@ -1,6 +1,5 @@
 package edu.eci.arsw.kafka.consumer;
 
-import edu.eci.arsw.kafka.dto.InventoryProcessedEvent;
 import edu.eci.arsw.kafka.dto.OrderCreatedEvent;
 import edu.eci.arsw.kafka.dto.PaymentProcessedEvent;
 import edu.eci.arsw.kafka.producer.PaymentEventProducer;
